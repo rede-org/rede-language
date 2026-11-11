@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results and coverage
+[Tt]est[Rr]esults/
+*.coverage
+*.coveragexml
+
+# NuGet packages
+*.nupkg
+*.snupkg
